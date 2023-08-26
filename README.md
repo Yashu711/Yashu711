@@ -47,6 +47,4 @@
 <a href="https://instagram.com/yashuy711"><img src="https://img.shields.io/badge/-@yashuy711-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<p align = "center">
 ![Profile views](https://gpvc.arturio.dev/Yashu711)
-</p>

@@ -15,7 +15,6 @@
  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 
  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)

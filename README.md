@@ -1,13 +1,15 @@
-<h2>Hey there! I'm Yashaswini</h2>
+## Hey there! I'm Yashaswini
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 &nbsp;About Me 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Nagarjuna college of Engineering and Technology, Banglore.\
 🌱 &nbsp;I'm on track for learning more about Development and Coding skills.\
 ✉️ &nbsp;You can shoot me an email at yashuy130@gmail.com I'll try to respond as soon as I can.\
 
-<h3> 🛠 &nbsp;Languages and tools </h3>
+---
+
+### 🛠 &nbsp;Languages and tools
 
 
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -25,6 +27,7 @@
   
  ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)
 
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -35,11 +38,14 @@
 </a>
 </p>
 
+---
+
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31xalir2dzytsbfipshbqg3krucu)
 
+---
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.yashaswini.com"><img alt ="website" src="https://img.shields.io/badge/-yashaswini.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -47,4 +53,3 @@
 <a href="https://instagram.com/yashuy711"><img src="https://img.shields.io/badge/-@yashuy711-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/Yashu711)

@@ -26,8 +26,7 @@
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
   
-- &nbsp;
- ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+ ![MySQL](https://img.shields.io/badge/-MySQL-111111?style=flat&logo=mysql)
 
 
 ### ⚙️ &nbsp;GitHub Analytics

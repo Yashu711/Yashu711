@@ -1,16 +1,56 @@
-### Hi there 👋
+<h2>Hey there! I'm Yashaswini</h2>
 
-<!--
-**Yashu711/Yashu711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at Nagarjuna college of Engineering and Technology, Banglore.\
+🌱 &nbsp;I'm on track for learning more about Development and Coding skills.\
+✉️ &nbsp;You can shoot me an email at yashuy130@gmail.com I'll try to respond as soon as I can.\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🛠 &nbsp;Languages and tools </h3>
+
+- 💻 &nbsp;
+
+ ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+ ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+ ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+ ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+
+ ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+ ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+
+
+ ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+ ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+ ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+  
+- &nbsp;
+ ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href=https://github.com/Yashu711>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yashu711&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashu711&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31xalir2dzytsbfipshbqg3krucu)
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.yashaswini.com"><img alt ="website" src="https://img.shields.io/badge/website-yashaswini.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yashaswini-p-a69a11265"><img src="https://img.shields.io/badge/-Yashaswini%20P%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/yashuy711"><img src="https://img.shields.io/badge/-@yashuy711-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
+<p align = "center">
+![Profile views](https://gpvc.arturio.dev/Yashu711)
+</p>

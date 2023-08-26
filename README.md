@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.yashaswini.com"><img alt ="website" src="https://img.shields.io/badge/website-yashaswini.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.yashaswini.com"><img alt ="website" src="https://img.shields.io/badge/-yashaswini.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/yashaswini-p-a69a11265"><img src="https://img.shields.io/badge/-Yashaswini%20P%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/yashuy711"><img src="https://img.shields.io/badge/-@yashuy711-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
